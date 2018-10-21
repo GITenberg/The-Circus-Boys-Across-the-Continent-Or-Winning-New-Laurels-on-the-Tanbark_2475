@@ -1,5 +1,5 @@
 _repo: The-Circus-Boys-Across-the-Continent-Or-Winning-New-Laurels-on-the-Tanbark_2475
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ subjects:
 - !lcc 'PZ'
 - !lcsh 'Adventure stories'
 - !lcc 'PS'
+- GITenberg
 title: The Circus Boys Across the Continent; Or, Winning New Laurels on the Tanbark
 url: http://www.gutenberg.org/ebooks/2475
